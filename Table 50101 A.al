@@ -1,4 +1,4 @@
-table 50101 A
+Table 50101 A
 {
     DataClassification = ToBeClassified;
 
