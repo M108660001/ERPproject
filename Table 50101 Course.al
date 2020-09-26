@@ -1,6 +1,6 @@
-table 50101 Course
+table 50102 Course
 {
-    // DataClassification = ToBeClassified;
+    DataClassification = ToBeClassified;
 
     fields
     {
