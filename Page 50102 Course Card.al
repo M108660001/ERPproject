@@ -47,6 +47,7 @@ page 50102 "Course Card"
                     ApplicationArea = All;
 
                 }
+
             }
         }
     }
